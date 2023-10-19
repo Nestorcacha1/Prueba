@@ -34,3 +34,5 @@ iniciar_sesion_button = tk.Button(ventana, text="Iniciar Sesión", command=inici
 iniciar_sesion_button.pack()
 
 ventana.mainloop()
+
+print("Este una interfaz de usuario en python")
